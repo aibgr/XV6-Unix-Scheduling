@@ -11,9 +11,6 @@ This patch for the MIT xv6 operating system introduces **5 different CPU schedul
 
 This extension enhances xv6's scheduler to support multiple policies via a compile-time flag. If no flag is specified, the **DEFAULT (Round-Robin)** policy is used. To enable a specific policy:
 
-```bash
-$ make qemu SCHEDFLAG=FCFS
-
 
 # Scheduling policies in xv6
 
