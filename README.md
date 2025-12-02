@@ -1,6 +1,3 @@
-افتضاحی!
-# Scheduling policies in xv6
-
 # xv6 Scheduling Policies Extension
 
 This patch for the MIT xv6 operating system introduces **5 different CPU scheduling policies**, allowing users to experiment with and compare various algorithms in a teaching OS environment. Currently, **2 policies are fully implemented**: FCFS and LOTTERY. The framework is prepared for the remaining policies: PRIORITY and SML.
