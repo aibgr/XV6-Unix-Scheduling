@@ -164,6 +164,3 @@ Eldar Sehayek, Yongming Shen, Stephen Tu, and Zouchangwei.
 
 The code in the files that constitute xv6 is
 Copyright 2006-2017 Frans Kaashoek, Robert Morris, and Russ Cox.
-
- 
-این رو هم حرفه ای کن با حفط تمام جزییات و مطالبش و محتواش و بیشتر به ظاهر و هدر و فوتر و ... اینا بپرداز برای حرفه شدنش و فقط یه کد کامل README انگلیسی عالی و مفصل تحویل بده
